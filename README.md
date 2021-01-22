@@ -1,13 +1,11 @@
-#Trabalhando me cima do projeto
-CSS UI Design
-Neumorphismo using HTML and CSS, with Hover Effects.
-Source https://www.youtube.com/watch?v=tBAH2PmzM8M
-A minha própria versão deste projeto está em: https://ia5go.github.io/darkneumorphism/
+# Proposta
 
-//A proposta atual é fazer uma aplicação oracular que traga 3 cartas (passado, presente e futuro).
-as informações serão carregadas a partir de um json que está na pasta de assets.
+Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/darkneumorphism/
 
-#Dificuldades
+- Aplicação oracular que traga 3 cartas (passado, presente e futuro).
+- As informações serão carregadas a partir de um json que está na pasta de assets.
+
+## Dificuldades
 
 - Carregar um JSON a partir de js puro não é tão facil quanto é fazer isso com a biblioteca P5js
   - Primeiro precisamos utilizar a função fetch(), já que a função loadJSON() não é nativa da linguagem ES.
