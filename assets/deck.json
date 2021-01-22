@@ -1,0 +1,22 @@
+{
+"data": [
+    {
+        "Card": "A Aventureira",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Balanceadora",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Lua",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    }
+]
+}
