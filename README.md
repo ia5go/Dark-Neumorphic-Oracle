@@ -16,3 +16,4 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
     - const deck = fatch()...; não dá certo pois salva uma promessa não só o objeto que foi recuperado do json.
     - Pelo visto é necessário manipular o json dentro da função async responsável por executar a fetch(), se tentar dar um retorno desta ainda recebo uma promessa.
 - Resolvendo os valores aleatórios para definir as cartas
+  NEXT: Diminuir uma imagem dos servidores para o tamanho máximo de cada card e depois add ela ao projeto, tentar fazer elas de back ground nas cartas para ver como fica... (a ideia é que cada carta tenha um campo "endereço" que aponte para imagem da carta em assets e essa enderço seja usado de src para as imagens...)
