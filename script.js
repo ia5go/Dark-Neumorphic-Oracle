@@ -1,11 +1,12 @@
-fetch('assets/deck.json').then(function (response){
-    return response.json();
-}).then(function (obj){
-    console.log("data do fetch" +obj);
-}).catch(function (error){
-    console.error("algo deu errado");
-    console.error(error);
-});
+//NEXT: fazer o gerador de valores aleatórios antes de buscar o array
+async function catchDeck(){
+    const response = await fetch('assets/deck.json');
+    const data = await response.json();
+    console.log(data[0]);
+}
+
+catchDeck();
+
 const pastTitle = document.getElementById('pastTitle');
 const pastDescription = document.getElementById('pastDescription');
 
