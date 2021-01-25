@@ -1,7 +1,205 @@
 
 [
     {
-        "Card": "A Aventureira",
+        "Card": "O Guru",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Bibliotecária",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Maestro",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Abridor de Caminhos",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Protetor",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Mãe",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Repardor",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Ideia",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Pai",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Dançarina",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Sol",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Santo",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Olho",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Mestre",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Diabo",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Vidente",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Bruxa",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Mídia",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Explorador",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Afortunada",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Levitador",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Carnal",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Planeta",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Adversário",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Lua",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Desesperado",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Casta",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Monge",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Exaurido",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Manifestante",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Guardião do Portal",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "Os Enamorados",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Mensageiro",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Morta",
         "Passado": "Texto sobre o significado no passado da carta",
         "Presente": "Texto sobre o significado no presente da carta",
         "Futuro": "Texto sobre o futuro dessa carta"
@@ -13,7 +211,31 @@
         "Futuro": "Texto sobre o futuro dessa carta"
     },
     {
-        "Card": "A Lua",
+        "Card": "O Contemplador",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Pensador",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Curandeira",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "O Doador",
+        "Passado": "Texto sobre o significado no passado da carta",
+        "Presente": "Texto sobre o significado no presente da carta",
+        "Futuro": "Texto sobre o futuro dessa carta"
+    },
+    {
+        "Card": "A Aventureira",
         "Passado": "Texto sobre o significado no passado da carta",
         "Presente": "Texto sobre o significado no presente da carta",
         "Futuro": "Texto sobre o futuro dessa carta"

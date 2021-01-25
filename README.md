@@ -15,3 +15,4 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
   - Agora preciso transformar transformar o que fetch() pega em um array de objetos em uma variável global.
     - const deck = fatch()...; não dá certo pois salva uma promessa não só o objeto que foi recuperado do json.
     - Pelo visto é necessário manipular o json dentro da função async responsável por executar a fetch(), se tentar dar um retorno desta ainda recebo uma promessa.
+- Resolvendo os valores aleatórios para definir as cartas
