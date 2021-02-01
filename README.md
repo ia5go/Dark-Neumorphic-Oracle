@@ -3,7 +3,18 @@
 Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/darkneumorphism/
 
 - Aplicação oracular que traga 3 cartas (passado, presente e futuro).
-- As informações serão carregadas a partir de um json que está na pasta de assets.
+- As informações serão carregadas a partir de um JSON que está na pasta de assets.
+
+## Objetivo
+
+- Praticar front-end e consumo de JSON.
+- Criar um JSON, e todo um conjunto de assets que possam ser utilizados em outros projetos mock.
+
+### Futuro
+
+- Criar uma página sobre o Tommie Kelly e uma sobre os quarenta servidores.
+- Add descrições aos campos passado, presente e futuro dos objetos JSON.
+- Criação de páginas individuais que carreguem um objeto específico e dé uma visão mais detalhada.
 
 ## Dificuldades
 
@@ -15,5 +26,9 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
   - Agora preciso transformar transformar o que fetch() pega em um array de objetos em uma variável global.
     - const deck = fatch()...; não dá certo pois salva uma promessa não só o objeto que foi recuperado do json.
     - Pelo visto é necessário manipular o json dentro da função async responsável por executar a fetch(), se tentar dar um retorno desta ainda recebo uma promessa.
-- Resolvendo os valores aleatórios para definir as cartas
-  NEXT: Diminuir uma imagem dos servidores para o tamanho máximo de cada card e depois add ela ao projeto, tentar fazer elas de back ground nas cartas para ver como fica... (a ideia é que cada carta tenha um campo "endereço" que aponte para imagem da carta em assets e essa enderço seja usado de src para as imagens...)
+
+### NEXT:
+
+- ajustar as imagens (tamanho e formato)
+- resolver a questão de numeros aletórios
+- Add as palvras para cada carta
