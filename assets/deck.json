@@ -4,286 +4,166 @@
         "Card": "O Guru",
         "bg": "The-Guru.png",
         "Mantra": "É inútil, a não ser que eu possa usar.",
-        "Palavras": "Ensino, Funcional, Prático, Habilidades, Aplicação de Ideias, Mentor, Mestre Espiritual, Pragmático, Pé no Chão, Direção, Uso do Conhecimento, Aplicação de Ideias",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "Palavras": "Ensino, Funcional, Prático, Habilidades, Aplicação de Ideias, Mentor, Mestre Espiritual, Pragmático, Pé no Chão, Direção, Uso do Conhecimento, Aplicação de Ideias"
     },
     {
         "Card": "A Bibliotecária",
         "bg": "The-Librarian.png",
         "Mantra": "Conhecimento é poder.",
-        "Palavras": "Teoria, Livros, Informações, Dados, Aprendizagem, Estudo, Documentos, Localização de Livros, Armazenamento de Informações, Educação, Know-how, Compreenção, Concursos, Provas",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "Palavras": "Teoria, Livros, Informações, Dados, Aprendizagem, Estudo, Documentos, Localização de Livros, Armazenamento de Informações, Educação, Know-how, Compreenção, Concursos, Provas"
     },
     {
         "Card": "O Maestro",
         "bg": "The-Conductor.png",
         "Mantra": "",
-        "Palavras": "",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "Palavras": ""
     },
     {
         "Card": "O Abridor de Caminhos",
-        "bg": "The-Road-Opener.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Road-Opener.png"
     },
     {
         "Card": "O Protetor",
-        "bg": "The-Protector.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Protector.png"
     },
     {
         "Card": "A Mãe",
-        "bg": "The-Mother.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Mother.png"
     },
     {
         "Card": "O Reparador",
-        "bg": "The-Fixer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Fixer.png"
     },
     {
         "Card": "A Ideia",
-        "bg": "The-Idea.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Idea.png"
     },
     {
         "Card": "O Pai",
-        "bg": "The-Father.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Father.png"
     },
     {
         "Card": "A Dançarina",
-        "bg": "The-Dancer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Dancer.png"
     },
     {
         "Card": "O Sol",
-        "bg": "The-Sun.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Sun.png"
     },
     {
         "Card": "O Santo",
-        "bg": "The-Saint.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Saint.png"
     },
     {
         "Card": "O Olho",
-        "bg": "The-Eye.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Eye.png"
     },
     {
         "Card": "O Mestre",
-        "bg": "The-Master.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Master.png"
     },
     {
         "Card": "O Diabo",
-        "bg": "The-Devil.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Devil.png"
     },
     {
         "Card": "A Vidente",
-        "bg": "The-Seer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Seer.png"
     },
     {
         "Card": "A Bruxa",
-        "bg": "The-Witch.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Witch.png"
     },
     {
         "Card": "A Mídia",
-        "bg": "The-Media.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Media.png"
     },
     {
         "Card": "O Explorador",
-        "bg": "The-Explorer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Explorer.png"
     },
     {
         "Card": "A Afortunada",
-        "bg": "The-Fortunate.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Fortunate.png"
     },
     {
         "Card": "O Levitador",
-        "bg": "The-Levitator.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Levitator.png"
     },
     {
         "Card": "A Carnal",
-        "bg": "The-Carnal.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Carnal.png"
     },
     {
         "Card": "O Planeta",
-        "bg": "The-Planet.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Planet.png"
     },
     {
         "Card": "A Adversário",
-        "bg": "The-Opposer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Opposer.png"
     },
     {
         "Card": "A Lua",
-        "bg": "The-Moon.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Moon.png"
     },
     {
         "Card": "A Desesperado",
-        "bg": "The-Desperate.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Desperate.png"
     },
     {
         "Card": "A Casta",
-        "bg": "The-Chaste.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Chaste.png"
     },
     {
         "Card": "O Monge",
-        "bg": "The-Monk.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Monk.png"
     },
     {
         "Card": "O Exaurido",
-        "bg": "The-Depleted.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Depleted.png"
     },
     {
         "Card": "A Manifestante",
-        "bg": "The-Protester.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Protester.png"
     },
     {
         "Card": "O Guardião do Portal",
-        "bg": "The-Gate-Keeper.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Gate-Keeper.png"
     },
     {
         "Card": "Os Enamorados",
-        "bg": "The-Lover.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Lover.png"
     },
     {
         "Card": "O Mensageiro",
-        "bg": "The-Messenger.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Messenger.png"
     },
     {
         "Card": "A Morta",
-        "bg": "The-Dead.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Dead.png"
     },
     {
         "Card": "A Balanceadora",
-        "bg": "The-Balancer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Balancer.png"
     },
     {
         "Card": "O Contemplador",
-        "bg": "The-Contemplator.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Contemplator.png"
     },
     {
         "Card": "O Pensador",
-        "bg": "The-Thinker.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Thinker.png"
     },
     {
         "Card": "A Curandeira",
-        "bg": "The-Healer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Healer.png"
     },
     {
         "Card": "O Doador",
-        "bg": "The-Giver.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Giver.png"
     },
     {
         "Card": "A Aventureira",
-        "bg": "The-Adventurer.png",
-        "Passado": "Texto sobre o significado no passado da carta",
-        "Presente": "Texto sobre o significado no presente da carta",
-        "Futuro": "Texto sobre o futuro dessa carta"
+        "bg": "The-Adventurer.png"
     }
 ]

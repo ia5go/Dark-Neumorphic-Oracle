@@ -8,29 +8,39 @@ const futureTitle = document.getElementById('futureTitle');
 const futureDescription = document.getElementById('futureDescription');
 const futureBox = document.getElementById('futureBox');
 //variáveis de controle de indice para escolher qual carta vai ser usada em cada tempo; NOTE: é necessário me preocupar com a possibilidade de repetição.
-const pas = Math.floor(Math.random() * 39);
-const pre = Math.floor(Math.random() * 39);
-const fut = Math.floor(Math.random() * 39);
+
+function drawCards(){
+    let selected = [];
+
+    do{
+        for(let i=0; i<3; i++){
+            selected[i] = Math.floor(Math.random() * 39);
+        }
+        console.log(selected);
+    }while(selected[0] == selected[1] || selected[0] == selected[2] || selected[1] == selected[2]);
+
+    return selected;
+}
 
 async function catchDeck(){
     const response = await fetch('assets/deck.json');
     const data = await response.json();
     //adicionando os valores do json as catas
     //passado
-    const ajust = 1;
-    pastTitle.innerHTML = data[pas].Card;
-    pastDescription.innerHTML = data[pas].Palavras;
-    pastBox.style.backgroundImage = `URL(assets/img/${data[pas].bg})`;
+    const draw = drawCards();
+    pastTitle.innerHTML = data[draw[0]].Card;
+    pastDescription.innerHTML = data[draw[0]].Palavras;
+    pastBox.style.backgroundImage = `URL(assets/img/${data[draw[0]].bg})`;
 
     //Presente
-    presentTitle.innerHTML = data[pre].Card;
-    presentDescription.innerHTML = data[pre].Palavras;
-    presentBox.style.backgroundImage = `URL(assets/img/${data[pre].bg})`;
+    presentTitle.innerHTML = data[draw[1]].Card;
+    presentDescription.innerHTML = data[draw[1]].Palavras;
+    presentBox.style.backgroundImage = `URL(assets/img/${data[draw[1]].bg})`;
 
     //passado
-    futureTitle.innerHTML = data[fut].Card;
-    futureDescription.innerHTML = data[fut].Palavras;
-    futureBox.style.backgroundImage = `URL(assets/img/${data[fut].bg})`;
+    futureTitle.innerHTML = data[draw[2]].Card;
+    futureDescription.innerHTML = data[draw[2]].Palavras;
+    futureBox.style.backgroundImage = `URL(assets/img/${data[draw[2]].bg})`;
 }
 
 catchDeck();

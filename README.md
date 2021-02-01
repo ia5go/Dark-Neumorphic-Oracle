@@ -29,6 +29,5 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
 
 ### NEXT:
 
-- ajustar as imagens (tamanho e formato)
 - resolver a questão de numeros aletórios
 - Add as palvras para cada carta
