@@ -52,17 +52,6 @@ body {
   overflow: hidden;
 }
 
-/* .container .card .box::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50%;
-  height: 100%;
-  background: rgba(255, 255, 255, 0.05);
-  pointer-events: none;
-} */
-
 .container .card .box:hover {
   transform: translateY(-50px);
   box-shadow: 0 40px 70px rgba(0, 0, 0, 0.5);
@@ -98,27 +87,3 @@ body {
   border-radius: 15px;
   background-color: rgba(0, 0, 0, 0.5);
 }
-/* 
-.container .card .box .content a {
-  position: relative;
-  display: inline-block;
-  padding: 8px 20px;
-  background: #000;
-  margin-top: 15px;
-  border-radius: 20px;
-  text-decoration: none;
-  font-weight: 400;
-  color: #ffffff;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
-.container .card:nth-child(1) .box .content a {
-  background: #2196f3;
-}
-.container .card:nth-child(2) .box .content a {
-  background: #e91e63;
-}
-.container .card:nth-child(3) .box .content a {
-  background: #97dc47;
-}
- */
