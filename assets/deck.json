@@ -15,20 +15,26 @@
     {
         "Card": "O Maestro",
         "bg": "The-Conductor.png",
-        "Mantra": "",
-        "Palavras": ""
+        "Mantra": "Eu estou no controle. Eu sou o Rei/Rainha.",
+        "Palavras": "Controle, Regular, Ordem, Direcionar, Piloto, Regra, Autoridade, Dominação, Manipular, Autonomia, Autodeteriminação, Autogoverno, Soberania, Liberade"
     },
     {
         "Card": "O Abridor de Caminhos",
-        "bg": "The-Road-Opener.png"
+        "bg": "The-Road-Opener.png",
+        "Mantra": "A estrada à frente está desimpedida.",
+        "Palavras": "Abertura, Banimento, Compensação, Remoção, Oportunidades, Dispersão, Sorte, Circunstâncias Favoráveis, Probabilidade de Sucesso Melhorada, Vantagem, Novas Direções, Prosperidade, Novo Foco"
     },
     {
         "Card": "O Protetor",
-        "bg": "The-Protector.png"
+        "bg": "The-Protector.png",
+        "Mantra": "Tudo está seguro, eu estou seguro.",
+        "Palavras": "Proteção, Segurança, Garantia, Defesa, Proteger, Blindar, Salvaguardar, Acautelar, Manter Seguro, Fora de Perigo"
     },
     {
         "Card": "A Mãe",
-        "bg": "The-Mother.png"
+        "bg": "The-Mother.png",
+        "Mantra": "",
+        "Palavras": ""
     },
     {
         "Card": "O Reparador",

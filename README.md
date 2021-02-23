@@ -26,8 +26,13 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
   - Agora preciso transformar transformar o que fetch() pega em um array de objetos em uma variável global.
     - const deck = fatch()...; não dá certo pois salva uma promessa não só o objeto que foi recuperado do json.
     - Pelo visto é necessário manipular o json dentro da função async responsável por executar a fetch(), se tentar dar um retorno desta ainda recebo uma promessa.
+- Para criar a função de revelar independente em cada carta foi necessário quebrar a função em funções idependentes para cada carta.
+- Ao tentar add uma classe para esconder o botão ele ignorou o valor para display none - a solução aqui foi usar " .style.display = 'none' " diretamente no js.
 
 ### NEXT:
 
-- Add as palvras para cada carta
-- Colocar pagina em um grid - add footer e header (links para dev, logo e direitos altorais para pagina do tommie)
+- Add as palvras para cada carta (ongoing)
+- Quero add botões de "revelar" pras cartas serem reveladas só depois de acionados.
+- Tirar a transformação vertical das cartas.
+- Colocar pagina em um grid - add footer e header (links para dev, logo e direitos altorais para pagina do tommie).
+- Pagina "como usar" deve ser adicionada.
