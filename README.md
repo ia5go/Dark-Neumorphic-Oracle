@@ -31,8 +31,12 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
 
 ### NEXT:
 
-- Add as palvras para cada carta (ongoing)
-- Quero add botões de "revelar" pras cartas serem reveladas só depois de acionados.
-- Tirar a transformação vertical das cartas.
+#### Minimo para versão 1.0
+
+- Add as palvras para cada carta (ongoing).
 - Colocar pagina em um grid - add footer e header (links para dev, logo e direitos altorais para pagina do tommie).
+
+#### Para versões futuras
+
 - Pagina "como usar" deve ser adicionada.
+- dar opção de acesso a palavras ou ao lema do servidor.
