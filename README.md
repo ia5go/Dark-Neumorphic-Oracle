@@ -38,5 +38,6 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
 
 #### Para versões futuras
 
+- Add footer com link para minha página apresentação.
 - Pagina "como usar" deve ser adicionada.
 - dar opção de acesso a palavras ou ao lema do servidor.
