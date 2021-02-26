@@ -38,6 +38,7 @@ Cricar um sistema de aleatoriedade em cima do projeto https://ia5go.github.io/da
 
 #### Para versões futuras
 
+- NOTE: Caso o header ganhe outro botão, este deverá ser colocado a direita da logo e esta deve ser centralizada.
 - Add footer com link para minha página apresentação.
 - Pagina "como usar" deve ser adicionada.
 - dar opção de acesso a palavras ou ao lema do servidor.

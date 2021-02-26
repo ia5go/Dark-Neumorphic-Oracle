@@ -20,12 +20,13 @@ header {
   grid-template-columns: auto auto;
   align-items: center;
 }
-header img {
+
+#logo {
   justify-self: left;
   margin-left: 20px;
 }
 
-header a {
+#about {
   padding: 8px 20px;
   background: gray;
   border-radius: 20px;
